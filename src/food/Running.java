@@ -43,6 +43,5 @@ public class Running {
         base.getPriceOfAdditions();
         base.getFinalPrice();
         out.println(space);
-
     }
 }
